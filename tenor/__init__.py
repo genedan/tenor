@@ -1,3 +1,3 @@
-from pitch import (
+from tenor.pitch import (
     pitches
 )
