@@ -1,14 +1,30 @@
+# Deal with multiple pitch aliases later, haven't gotten through sharps/flats in the book yet
+# pitches = [
+#     'A',
+#     ('A#', 'Bb'),
+#     ('B', 'Cb'),
+#     ('B#', 'C'),
+#     ('C#', 'Db'),
+#     'D',
+#     ('D#', 'Eb'),
+#     ('E', 'Fb'),
+#     ('E#', 'F'),
+#     ('F#', 'Gb'),
+#     'G',
+#     ('G#', 'Ab')
+# ]
+
 pitches = [
-    'A',
-    ('A#', 'Bb'),
-    ('B', 'Cb'),
-    ('B#', 'C'),
-    ('C#', 'Db'),
+    'C',
+    'C#',
     'D',
-    ('D#', 'Eb'),
-    ('E', 'Fb'),
-    ('E#', 'F'),
-    ('F#', 'Gb'),
+    'D#',
+    'E',
+    'F',
+    'F#',
     'G',
-    ('G#', 'Ab')
+    'G#',
+    'A',
+    'A#',
+    'B',
 ]
