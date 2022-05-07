@@ -28,3 +28,13 @@ pitches = [
     'A#',
     'B',
 ]
+
+raw_pitches = [
+    'A',
+    'B',
+    'C',
+    'D',
+    'E',
+    'F',
+    'G'
+]
